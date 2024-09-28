@@ -1,0 +1,1081 @@
+{
+  "exercises": [
+    {
+      "peitoral": [
+        {
+          "name": "Paralelas (Bar Dip)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/bar-dip/"
+        },
+        {
+          "name": "Supino Reto (Bench Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/bench-press/"
+        },
+        {
+          "name": "Supino com Cabo (Cable Chest Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/cable-chest-press/"
+        },
+        {
+          "name": "Supino com Pegada Fechada (Close-Grip Bench Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/close-grip-bench-press/"
+        },
+        {
+          "name": "Supino com Pegada Fechada e Pés Elevados (Close-Grip Feet-Up Bench Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/close-grip-feet-up-bench-press/"
+        },
+        {
+          "name": "Supino Declinado (Decline Bench Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/decline-bench-press/"
+        },
+        {
+          "name": "Crucifixo com Halteres (Dumbbell Chest Fly)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/dumbbell-chest-fly/"
+        },
+        {
+          "name": "Supino com Halteres (Dumbbell Chest Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/dumbbell-chest-press/"
+        },
+        {
+          "name": "Supino Declinado com Halteres (Dumbbell Decline Chest Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/dumbbell-decline-chest-press/"
+        },
+        {
+          "name": "Supino no Chão com Halteres (Dumbbell Floor Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/dumbbell-floor-press/"
+        },
+        {
+          "name": "Pullover com Halteres (Dumbbell Pullover)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/dumbbell-pullover/"
+        },
+        {
+          "name": "Supino com Pés Elevados (Feet-Up Bench Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/feet-up-bench-press/"
+        },
+        {
+          "name": "Supino no Chão (Floor Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/floor-press/"
+        },
+        {
+          "name": "Supino Inclinado (Incline Bench Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/incline-bench-press/"
+        },
+        {
+          "name": "Supino Inclinado com Halteres (Incline Dumbbell Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/incline-dumbbell-press/"
+        },
+        {
+          "name": "Flexão Inclinado (Incline Push-Up)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/incline-push-up/"
+        },
+        {
+          "name": "Flexão Inclinado de Joelhos (Kneeling Incline Push-Up)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/kneeling-incline-push-up/"
+        },
+        {
+          "name": "Flexão de Joelhos (Kneeling Push-Up)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/kneeling-push-up/"
+        },
+        {
+          "name": "Crucifixo na Máquina (Machine Chest Fly)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/machine-chest-fly/"
+        },
+        {
+          "name": "Supino na Máquina (Machine Chest Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/machine-chest-press/"
+        },
+        {
+          "name": "Peck Deck (Pec Deck)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/pec-deck/"
+        },
+        {
+          "name": "Flexão (Push-Up)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/push-up/"
+        },
+        {
+          "name": "Flexão na Parede (Push-Up Against Wall)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/push-up-against-wall/"
+        },
+        {
+          "name": "Flexão com Pés nas Argolas (Push-Ups With Feet in Rings)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/push-ups-with-feet-in-rings/"
+        },
+        {
+          "name": "Crucifixo com Faixa de Resistência (Resistance Band Chest Fly)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/resistance-band-chest-fly/"
+        },
+        {
+          "name": "Supino na Smith (Smith Machine Bench Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/smith-machine-bench-press/"
+        },
+        {
+          "name": "Supino Inclinado na Smith (Smith Machine Incline Bench Press)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/smith-machine-incline-bench-press/"
+        },
+        {
+          "name": "Crucifixo com Cabo em Pé (Standing Cable Chest Fly)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/standing-cable-chest-fly/"
+        },
+        {
+          "name": "Crucifixo com Faixa de Resistência em Pé (Standing Resistance Band Chest Fly)",
+          "muscle": "Peito",
+          "infoLink": "https://www.strengthlog.com/standing-resistance-band-chest-fly/"
+        }
+      ]
+    },
+    {
+      "ombros": [
+        {
+          "name": "Rotação Externa de Ombro com Faixa (Band External Shoulder Rotation)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/band-external-shoulder-rotation/"
+        },
+        {
+          "name": "Rotação Interna de Ombro com Faixa (Band Internal Shoulder Rotation)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/band-internal-shoulder-rotation/"
+        },
+        {
+          "name": "Band Pull-Apart (Band Pull-Apart)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/band-pull-apart/"
+        },
+        {
+          "name": "Elevação Frontal com Barra (Barbell Front Raise)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/barbell-front-raise/"
+        },
+        {
+          "name": "Remada Alta para Deltoide Posterior (Barbell Rear Delt Row)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/barbell-rear-delt-row/"
+        },
+        {
+          "name": "Remada Alta (Barbell Upright Row)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/barbell-upright-row/"
+        },
+        {
+          "name": "Desenvolvimento Atrás da Cabeça (Behind the Neck Press)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/behind-the-neck-press/"
+        },
+        {
+          "name": "Elevação Lateral com Cabo (Cable Lateral Raise)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/cable-lateral-raise/"
+        },
+        {
+          "name": "Remada para Deltoide Posterior com Cabo (Cable Rear Delt Row)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/cable-rear-delt-row/"
+        },
+        {
+          "name": "Elevação Frontal com Halteres (Dumbbell Front Raise)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/dumbbell-front-raise/"
+        },
+        {
+          "name": "Elevação Lateral com Halteres (Dumbbell Lateral Raise)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/dumbbell-lateral-raise/"
+        },
+        {
+          "name": "Remada para Deltoide Posterior com Halteres (Dumbbell Rear Delt Row)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/dumbbell-rear-delt-row/"
+        },
+        {
+          "name": "Desenvolvimento (Dumbbell Shoulder Press)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/dumbbell-shoulder-press/"
+        },
+        {
+          "name": "Desenvolvimento Militar (Military Press)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/military-press/"
+        },
+        {
+          "name": "Desenvolvimento na Smith (Smith Machine Shoulder Press)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/smith-machine-shoulder-press/"
+        },
+        {
+          "name": "Elevação Lateral (Side Lateral Raise)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/side-lateral-raise/"
+        },
+        {
+          "name": "Remada com Faixa de Resistência (Resistance Band Row)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/resistance-band-row/"
+        },
+        {
+          "name": "Desenvolvimento com Faixa (Resistance Band Shoulder Press)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/resistance-band-shoulder-press/"
+        },
+        {
+          "name": "Desenvolvimento em Pé (Standing Dumbbell Shoulder Press)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/standing-dumbbell-shoulder-press/"
+        },
+        {
+          "name": "Elevação Lateral na Máquina (Machine Lateral Raise)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/machine-lateral-raise/"
+        },
+        {
+          "name": "Elevação Lateral na Máquina com Pegada em Pronação (Machine Lateral Raise with Pronated Grip)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/machine-lateral-raise-with-pronated-grip/"
+        },
+        {
+          "name": "Desenvolvimento na Máquina (Machine Shoulder Press)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/machine-shoulder-press/"
+        },
+        {
+          "name": "Elevação Lateral com Faixa de Resistência (Resistance Band Lateral Raise)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/resistance-band-lateral-raise/"
+        },
+        {
+          "name": "Flexão de Ombro com Faixa de Resistência (Resistance Band Shoulder Flexion)",
+          "muscle": "Ombro",
+          "infoLink": "https://www.strengthlog.com/resistance-band-shoulder-flexion/"
+        }
+      ]
+    },
+    {
+      "biceps": [
+        {
+          "name": "Rosca Direta com Barra (Barbell Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/barbell-curl/"
+        },
+        {
+          "name": "Rosca Scott com Barra (Barbell Preacher Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/barbell-preacher-curl/"
+        },
+        {
+          "name": "Rosca com Peso Corporal (Bodyweight Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/bodyweight-curl/"
+        },
+        {
+          "name": "Rosca na Corda (Cable Curl With Bar)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/cable-curl-with-bar/"
+        },
+        {
+          "name": "Rosca com Corda (Cable Curl With Rope)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/cable-curl-with-rope/"
+        },
+        {
+          "name": "Rosca Concentrada (Concentration Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/concentration-curl/"
+        },
+        {
+          "name": "Rosca com Halteres (Dumbbell Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/dumbbell-curl/"
+        },
+        {
+          "name": "Rosca Scott com Halteres (Dumbbell Preacher Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/dumbbell-preacher-curl/"
+        },
+        {
+          "name": "Rosca Martelo (Hammer Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/hammer-curl/"
+        },
+        {
+          "name": "Rosca Inclinada com Halteres (Incline Dumbbell Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/incline-dumbbell-curl/"
+        },
+        {
+          "name": "Rosca na Máquina (Machine Bicep Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/machine-bicep-curl/"
+        },
+        {
+          "name": "Rosca Aranha (Spider Curl)",
+          "muscle": "Bíceps",
+          "infoLink": "https://www.strengthlog.com/spider-curl/"
+        }
+      ]
+    },
+    {
+      "triceps": [
+        {
+          "name": "Extensão de Tríceps em Pé com Barra (Barbell Standing Triceps Extension)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/barbell-standing-triceps-extension/"
+        },
+        {
+          "name": "Extensão de Tríceps Deitado com Barra (Barbell Lying Triceps Extension)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/barbell-lying-triceps-extension/"
+        },
+        {
+          "name": "Mergulho no Banco (Bench Dip)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/bench-dip/"
+        },
+        {
+          "name": "Flexão com Pegada Fechada (Close-Grip Push-Up)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/close-grip-push-up/"
+        },
+        {
+          "name": "Extensão de Tríceps Deitado com Halteres (Dumbbell Lying Triceps Extension)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/dumbbell-lying-triceps-extension/"
+        },
+        {
+          "name": "Extensão de Tríceps em Pé com Halteres (Dumbbell Standing Triceps Extension)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/dumbbell-standing-triceps-extension/"
+        },
+        {
+          "name": "Extensão de Tríceps com Corda Acima da Cabeça (Overhead Cable Triceps Extension)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/overhead-cable-triceps-extension/"
+        },
+        {
+          "name": "Extensão de Tríceps com Peso Corporal (Tricep Bodyweight Extension)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/tricep-bodyweight-extension/"
+        },
+        {
+          "name": "Tríceps Pushdown com Barra (Tricep Pushdown With Bar)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/tricep-pushdown-with-bar/"
+        },
+        {
+          "name": "Tríceps Pushdown com Corda (Tricep Pushdown With Rope)",
+          "muscle": "Tríceps",
+          "infoLink": "https://www.strengthlog.com/tricep-pushdown-with-rope/"
+        }
+      ]
+    },
+    {
+      "pernas": [
+        {
+          "name": "Agachamento Aéreo (Air Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/air-squat/"
+        },
+        {
+          "name": "Agachamento Hack com Barra (Barbell Hack Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/barbell-hack-squat/"
+        },
+        {
+          "name": "Avanço com Barra (Barbell Lunge)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/barbell-lunge/"
+        },
+        {
+          "name": "Avanço Caminhando com Barra (Barbell Walking Lunge)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/barbell-walking-lunge/"
+        },
+        {
+          "name": "Agachamento com Cinta (Belt Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/belt-squat/"
+        },
+        {
+          "name": "Avanço com Peso Corporal (Body Weight Lunge)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/body-weight-lunge/"
+        },
+        {
+          "name": "Agachamento na Caixa (Box Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/box-squat/"
+        },
+        {
+          "name": "Agachamento Búlgaro (Bulgarian Split Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/bulgarian-split-squat/"
+        },
+        {
+          "name": "Agachamento na Cadeira (Chair Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/chair-squat/"
+        },
+        {
+          "name": "Avanço com Halteres (Dumbbell Lunge)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/dumbbell-lunge/"
+        },
+        {
+          "name": "Agachamento com Halteres (Dumbbell Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/dumbbell-squat/"
+        },
+        {
+          "name": "Agachamento Frontal (Front Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/front-squat/"
+        },
+        {
+          "name": "Agachamento Goblet (Goblet Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/goblet-squat/"
+        },
+        {
+          "name": "Máquina de Agachamento Hack (Hack Squat Machine)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/hack-squat-machine/"
+        },
+        {
+          "name": "Meio Agachamento Aéreo (Half Air Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/half-air-squat/"
+        },
+        {
+          "name": "Máquina de Adução de Quadril (Hip Adduction Machine)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/hip-adduction-machine/"
+        },
+        {
+          "name": "Agachamento Hack com Landmine (Landmine Hack Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/landmine-hack-squat/"
+        },
+        {
+          "name": "Agachamento com Landmine (Landmine Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/landmine-squat/"
+        },
+        {
+          "name": "Extensão de Pernas (Leg Extension)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/leg-extension/"
+        },
+        {
+          "name": "Leg Press (Leg Press)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/leg-press/"
+        },
+        {
+          "name": "Flexão de Pernas Deitado (Lying Leg Curl)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/lying-leg-curl/"
+        },
+        {
+          "name": "Agachamento Pausado (Pause Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/pause-squat/"
+        },
+        {
+          "name": "Peso Morto Romeno (Romanian Deadlift)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/romanian-deadlift/"
+        },
+        {
+          "name": "Agachamento com Barra de Segurança (Safety Bar Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/safety-bar-squat/"
+        },
+        {
+          "name": "Flexão de Pernas Sentado (Seated Leg Curl)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/seated-leg-curl/"
+        },
+        {
+          "name": "Avanço com Peso Corporal Superficial (Shallow Body Weight Lunge)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/shallow-body-weight-lunge/"
+        },
+        {
+          "name": "Avanços Laterais (Bodyweight) (Side Lunges (Bodyweight))",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/side-lunges-(bodyweight)/"
+        },
+        {
+          "name": "Agachamento na Máquina Smith (Smith Machine Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/smith-machine-squat/"
+        },
+        {
+          "name": "Agachamento (Squat)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/squat/"
+        },
+        {
+          "name": "Subida (Step Up)",
+          "muscle": "Pernas",
+          "infoLink": "https://www.strengthlog.com/step-up/"
+        }
+      ]
+    },
+    {
+      "costas": [
+        {
+          "name": "Extensão de Costas (Back Extension)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/back-extension/"
+        },
+        {
+          "name": "Remada com Barra (Barbell Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/barbell-row/"
+        },
+        {
+          "name": "Encolhimento com Barra (Barbell Shrug)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/barbell-shrug/"
+        },
+        {
+          "name": "Block Snatch",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/block-snatch/"
+        },
+        {
+          "name": "Remada Sentada com Pegada Fechada (Cable Close Grip Seated Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/cable-close-grip-seated-row/"
+        },
+        {
+          "name": "Remada Sentada com Pegada Larga (Cable Wide Grip Seated Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/cable-wide-grip-seated-row/"
+        },
+        {
+          "name": "Chin-Up",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/chin-up/"
+        },
+        {
+          "name": "Clean",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/clean/"
+        },
+        {
+          "name": "Clean e Jerk (Clean and Jerk)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/clean-and-jerk/"
+        },
+        {
+          "name": "Peso Morto (Deadlift)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/deadlift/"
+        },
+        {
+          "name": "Peso Morto Deficit (Deficit Deadlift)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/deficit-deadlift/"
+        },
+        {
+          "name": "Peso Morto com Halteres (Dumbbell Deadlift)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/dumbbell-deadlift/"
+        },
+        {
+          "name": "Remada com Halteres (Dumbbell Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/dumbbell-row/"
+        },
+        {
+          "name": "Encolhimento com Halteres (Dumbbell Shrug)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/dumbbell-shrug/"
+        },
+        {
+          "name": "Extensão de Costas no Chão (Floor Back Extension)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/floor-back-extension/"
+        },
+        {
+          "name": "Bom Dia (Good Morning)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/good-morning/"
+        },
+        {
+          "name": "Hang Clean",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/hang-clean/"
+        },
+        {
+          "name": "Hang Power Clean",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/hang-power-clean/"
+        },
+        {
+          "name": "Hang Power Snatch",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/hang-power-snatch/"
+        },
+        {
+          "name": "Hang Snatch",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/hang-snatch/"
+        },
+        {
+          "name": "Remada Invertida (Inverted Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/inverted-row/"
+        },
+        {
+          "name": "Remada Invertida com Pegada Supinada (Inverted Row with Underhand Grip)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/inverted-row-with-underhand-grip/"
+        },
+        {
+          "name": "Kettlebell Swing",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/kettlebell-swing/"
+        },
+        {
+          "name": "Pulldown com Pegada Pronada (Lat Pulldown With Pronated Grip)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/lat-pulldown-with-pronated-grip/"
+        },
+        {
+          "name": "Pulldown com Pegada Supinada (Lat Pulldown With Supinated Grip)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/lat-pulldown-with-supinated-grip/"
+        },
+        {
+          "name": "Remada com uma Mão (One-Handed Cable Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/one-handed-cable-row/"
+        },
+        {
+          "name": "Pulldown com uma Mão (One-Handed Lat Pulldown)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/one-handed-lat-pulldown/"
+        },
+        {
+          "name": "Peso Morto Pausado (Pause Deadlift)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/pause-deadlift/"
+        },
+        {
+          "name": "Remada Pendlay (Pendlay Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/pendlay-row/"
+        },
+        {
+          "name": "Power Clean",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/power-clean/"
+        },
+        {
+          "name": "Power Snatch",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/power-snatch/"
+        },
+        {
+          "name": "Pull-Up",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/pull-up/"
+        },
+        {
+          "name": "Rack Pull",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/rack-pull/"
+        },
+        {
+          "name": "Remada Seal (Seal Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/seal-row/"
+        },
+        {
+          "name": "Remada em Máquina Sentada (Seated Machine Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/seated-machine-row/"
+        },
+        {
+          "name": "Snatch",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/snatch/"
+        },
+        {
+          "name": "Peso Morto com Pegada de Snatch (Snatch Grip Deadlift)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/snatch-grip-deadlift/"
+        },
+        {
+          "name": "Peso Morto com Pernas Rígidas (Stiff-Legged Deadlift)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/stiff-legged-deadlift/"
+        },
+        {
+          "name": "Pulldown com Braço Esticado (Straight Arm Lat Pulldown)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/straight-arm-lat-pulldown/"
+        },
+        {
+          "name": "Peso Morto Sumo (Sumo Deadlift)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/sumo-deadlift/"
+        },
+        {
+          "name": "Remada T-Bar (T-Bar Row)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/t-bar-row/"
+        },
+        {
+          "name": "Peso Morto com Trap Bar e Pegas Altas (Trap Bar Deadlift With High Handles)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/trap-bar-deadlift-with-high-handles/"
+        },
+        {
+          "name": "Peso Morto com Trap Bar e Pegas Baixas (Trap Bar Deadlift With Low Handles)",
+          "muscle": "Costas",
+          "infoLink": "https://www.strengthlog.com/trap-bar-deadlift-with-low-handles/"
+        }
+      ]
+    },
+    {
+      "gluteo": [
+        {
+          "name": "Chutes Laterais com Banda (Banded Side Kicks)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/banded-side-kicks/"
+        },
+        {
+          "name": "Cable Pull Through",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/cable-pull-through/"
+        },
+        {
+          "name": "Conchas (Clamshells)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/clamshells/"
+        },
+        {
+          "name": "Peso Morto Romeno com Halteres (Dumbbell Romanian Deadlift)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/dumbbell-romanian-deadlift/"
+        },
+        {
+          "name": "Frog Pumps com Halteres (Dumbbell Frog Pumps)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/dumbbell-frog-pumps/"
+        },
+        {
+          "name": "Hidrantes (Fire Hydrants)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/fire-hydrants/"
+        },
+        {
+          "name": "Frog Pumps",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/frog-pumps/"
+        },
+        {
+          "name": "Ponte de Glúteos (Glute Bridge)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/glute-bridge/"
+        },
+        {
+          "name": "Abdução do Quadril Contra Banda (Hip Abduction Against Band)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/hip-abduction-against-band/"
+        },
+        {
+          "name": "Máquina de Abdução do Quadril (Hip Abduction Machine)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/hip-abduction-machine/"
+        },
+        {
+          "name": "Hip Thrust",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/hip-thrust/"
+        },
+        {
+          "name": "Máquina de Hip Thrust (Hip Thrust Machine)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/hip-thrust-machine/"
+        },
+        {
+          "name": "Hip Thrust com Banda em Torno dos Joelhos (Hip Thrust With Band Around Knees)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/hip-thrust-with-band-around-knees/"
+        },
+        {
+          "name": "Caminhada Lateral com Banda (Lateral Walk With Band)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/lateral-walk-with-band/"
+        },
+        {
+          "name": "Kickbacks de Glúteo em Máquina (Machine Glute Kickbacks)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/machine-glute-kickbacks/"
+        },
+        {
+          "name": "Ponte de Glúteo com uma Perna (One-Legged Glute Bridge)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/one-legged-glute-bridge/"
+        },
+        {
+          "name": "Hip Thrust com uma Perna (One-Legged Hip Thrust)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/one-legged-hip-thrust/"
+        },
+        {
+          "name": "Peso Morto Romeno (Romanian Deadlift)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/romanian-deadlift/"
+        },
+        {
+          "name": "Peso Morto Romeno com uma Perna (Single Leg Romanian Deadlift)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/single-leg-romanian-deadlift/"
+        },
+        {
+          "name": "Kickback de Glúteo em Pé na Máquina (Standing Glute Kickback in Machine)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/standing-glute-kickback-in-machine/"
+        },
+        {
+          "name": "Step Up",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/step-up/"
+        },
+        {
+          "name": "abs: ",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/abs:-/"
+        },
+        {
+          "name": "Cable Crunch",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/cable-crunch/"
+        },
+        {
+          "name": "Crunch",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/crunch/"
+        },
+        {
+          "name": "Dead Bug",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/dead-bug/"
+        },
+        {
+          "name": "Elevação de Perna Pendurada (Hanging Leg Raise)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/hanging-leg-raise/"
+        },
+        {
+          "name": "Elevação de Joelho Pendurada (Hanging Knee Raise)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/hanging-knee-raise/"
+        },
+        {
+          "name": "Sit-Up Pendurado (Hanging Sit-Up)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/hanging-sit-up/"
+        },
+        {
+          "name": "Chop de Madeira Alto para Baixo com Banda (High to Low Wood Chop with Band)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/high-to-low-wood-chop-with-band/"
+        },
+        {
+          "name": "Chop de Madeira Horizontal com Banda (Horizontal Wood Chop with Band)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/horizontal-wood-chop-with-band/"
+        },
+        {
+          "name": "Roll-Out de Ab Wheel em Pé (Kneeling Ab Wheel Roll-Out)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/kneeling-ab-wheel-roll-out/"
+        },
+        {
+          "name": "Prancha em Pé (Kneeling Plank)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/kneeling-plank/"
+        },
+        {
+          "name": "Prancha Lateral em Pé (Kneeling Side Plank)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/kneeling-side-plank/"
+        },
+        {
+          "name": "Elevação de Perna Deitada (Lying Leg Raise)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/lying-leg-raise/"
+        },
+        {
+          "name": "Limpador de Para-brisa Deitado (Lying Windshield Wiper)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/lying-windshield-wiper/"
+        },
+        {
+          "name": "Limpador de Para-brisa Deitado com Joelhos Flexionados (Lying Windshield Wiper with Bent Knees)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/lying-windshield-wiper-with-bent-knees/"
+        },
+        {
+          "name": "Máquina de Crunch (Machine Crunch)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/machine-crunch/"
+        },
+        {
+          "name": "Escaladores de Montanha (Mountain Climbers)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/mountain-climbers/"
+        },
+        {
+          "name": "Crunch Oblíquo (Oblique Crunch)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/oblique-crunch/"
+        },
+        {
+          "name": "Sit-Up Oblíquo (Oblique Sit-Up)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/oblique-sit-up/"
+        },
+        {
+          "name": "Prancha (Plank)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/plank/"
+        },
+        {
+          "name": "Prancha Lateral (Side Plank)",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/side-plank/"
+        },
+        {
+          "name": "Sit-Up",
+          "muscle": "Glúteo",
+          "infoLink": "https://www.strengthlog.com/sit-up/"
+        }
+      ]
+    },
+    {
+      "panturrilhas": [
+        {
+          "name": "Eccentric Heel Drop",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/eccentric-heel-drop/"
+        },
+        {
+          "name": "Elevação de Calcanhar (Heel Raise)",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/heel-raise/"
+        },
+        {
+          "name": "Elevação de Panturrilha Sentado (Seated Calf Raise)",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/seated-calf-raise/"
+        },
+        {
+          "name": "Elevação de Panturrilha em Pé (Standing Calf Raise)",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/standing-calf-raise/"
+        },
+        {
+          "name": "antebraço: ",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/forearm:-/"
+        },
+        {
+          "name": "Barbell Wrist Curl",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/barbell-wrist-curl/"
+        },
+        {
+          "name": "Barbell Wrist Curl Behind the Back",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/barbell-wrist-curl-behind-the-back/"
+        },
+        {
+          "name": "Bar Hang",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/bar-hang/"
+        },
+        {
+          "name": "Dumbbell Wrist Curl",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/dumbbell-wrist-curl/"
+        },
+        {
+          "name": "Farmers Walk",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/farmers-walk/"
+        },
+        {
+          "name": "Fat Bar Deadlift",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/fat-bar-deadlift/"
+        },
+        {
+          "name": "Gripper",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/gripper/"
+        },
+        {
+          "name": "One-Handed Bar Hang",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/one-handed-bar-hang/"
+        },
+        {
+          "name": "Plate Pinch",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/plate-pinch/"
+        },
+        {
+          "name": "Plate Wrist Curl",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/plate-wrist-curl/"
+        },
+        {
+          "name": "Towel Pull-Up",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/towel-pull-up/"
+        },
+        {
+          "name": "Barbell Wrist Extension",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/barbell-wrist-extension/"
+        },
+        {
+          "name": "Dumbbell Wrist Extension",
+          "muscle": "Panturrilha",
+          "infoLink": "https://www.strengthlog.com/dumbbell-wrist-extension/"
+        }
+      ]
+    }
+  ]
+}
