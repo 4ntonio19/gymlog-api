@@ -678,9 +678,14 @@
           "infoLink": "https://www.strengthlog.com/cable-wide-grip-seated-row/"
         },
         {
-          "name": "Remada Baixa Sentada",
+          "name": "Remada Sentada",
           "muscle": "Costas",
-          "infoLink": "https://www.strengthlog.com/cable-wide-grip-seated-row/"
+          "infoLink": ""
+        },
+        {
+          "name": "Remada Sentada Unilateral",
+          "muscle": "Costas",
+          "infoLink": ""
         },
         {
           "name": "Barra Fixa Supinada",
@@ -1025,72 +1030,57 @@
           "infoLink": "https://www.strengthlog.com/hanging-knee-raise/"
         },
         {
-          "name": "Sit-Up Pendurado (Hanging Sit-Up)",
+          "name": "Sit-Up Pendurado",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/hanging-sit-up/"
         },
         {
-          "name": "Chop de Madeira Alto para Baixo com MiniBanda (High to Low Wood Chop with Band)",
-          "muscle": "Abdomên",
-          "infoLink": "https://www.strengthlog.com/high-to-low-wood-chop-with-band/"
-        },
-        {
-          "name": "Chop de Madeira Horizontal com MiniBanda (Horizontal Wood Chop with Band)",
-          "muscle": "Abdomên",
-          "infoLink": "https://www.strengthlog.com/horizontal-wood-chop-with-band/"
-        },
-        {
-          "name": "Roll-Out de Ab Wheel em Pé (Kneeling Ab Wheel Roll-Out)",
+          "name": "Roda Abdominal",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/kneeling-ab-wheel-roll-out/"
         },
         {
-          "name": "Prancha em Pé (Kneeling Plank)",
+          "name": "Prancha Apoiada",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/kneeling-plank/"
         },
         {
-          "name": "Prancha Lateral em Pé (Kneeling Side Plank)",
+          "name": "Prancha Lateral Apoiada",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/kneeling-side-plank/"
         },
         {
-          "name": "Elevação de Perna Deitada (Lying Leg Raise)",
+          "name": "Abdominal Infra",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/lying-leg-raise/"
         },
         {
-          "name": "Limpador de Para-brisa Deitado (Lying Windshield Wiper)",
+          "name": "Abdominal Oblíquo c/ Pernas Elevadas",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/lying-windshield-wiper/"
         },
         {
-          "name": "Limpador de Para-brisa Deitado com Joelhos Flexionados (Lying Windshield Wiper with Bent Knees)",
+          "name": "Abdominal Oblíquo c/ Pernas Dobradas",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/lying-windshield-wiper-with-bent-knees/"
         },
         {
-          "name": "Máquina de Crunch (Machine Crunch)",
+          "name": "Abdominal na Máquina",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/machine-crunch/"
         },
         {
-          "name": "Escaladores de Montanha (Mountain Climbers)",
+          "name": "Abdominal Alpinista",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/mountain-climbers/"
         },
         {
-          "name": "Crunch Oblíquo (Oblique Crunch)",
+          "name": "Abdominal Oblíquo",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/oblique-crunch/"
         },
         {
-          "name": "Sit-Up Oblíquo (Oblique Sit-Up)",
-          "muscle": "Abdomên",
-          "infoLink": "https://www.strengthlog.com/oblique-sit-up/"
-        },
-        {
-          "name": "Prancha (Plank)",
+          "name": "Prancha",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/plank/"
         },
@@ -1098,83 +1088,64 @@
           "name": "Prancha Lateral (Side Plank)",
           "muscle": "Abdomên",
           "infoLink": "https://www.strengthlog.com/side-plank/"
-        },
-        {
-          "name": "Sit-Up",
-          "muscle": "Abdomên",
-          "infoLink": "https://www.strengthlog.com/sit-up/"
         }
       ]
     },
-    { "antebraco": [{
-      "name": "antebraço: ",
-      "muscle": "antebraco",
-      "infoLink": "https://www.strengthlog.com/forearm:-/"
-    },
+    { "antebraco": [
     {
-      "name": "Barbell Wrist Curl",
+      "name": "Rosca Punho na Barra",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/barbell-wrist-curl/"
     },
     {
-      "name": "Barbell Wrist Curl Behind the Back",
-      "muscle": "antebraco",
-      "infoLink": "https://www.strengthlog.com/barbell-wrist-curl-behind-the-back/"
-    },
-    {
-      "name": "Bar Hang",
+      "name": "Suspensão na Barra",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/bar-hang/"
     },
     {
-      "name": "Dumbbell Wrist Curl",
+      "name": "Rosca Punho c/ Halteres",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/dumbbell-wrist-curl/"
     },
     {
-      "name": "Farmers Walk",
+      "name": "Carregamento de halteres (Caminhada do Fazendeiro)",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/farmers-walk/"
     },
     {
-      "name": "Fat Bar Deadlift",
-      "muscle": "antebraco",
-      "infoLink": "https://www.strengthlog.com/fat-bar-deadlift/"
-    },
-    {
-      "name": "Gripper",
+      "name": "Hand Grip",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/gripper/"
     },
     {
-      "name": "One-Handed Bar Hang",
+      "name": "Suspensão na Barra c/ uma Mão",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/one-handed-bar-hang/"
     },
     {
-      "name": "Plate Pinch",
+      "name": "Pegada Pinça em Anilha",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/plate-pinch/"
     },
     {
-      "name": "Plate Wrist Curl",
+      "name": "Rosca Punho c/ Anilha",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/plate-wrist-curl/"
     },
     {
-      "name": "Towel Pull-Up",
-      "muscle": "antebraco",
-      "infoLink": "https://www.strengthlog.com/towel-pull-up/"
-    },
-    {
-      "name": "Barbell Wrist Extension",
+      "name": "Rosca punho invertido na Barra",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/barbell-wrist-extension/"
     },
     {
-      "name": "Dumbbell Wrist Extension",
+      "name": " Rosca punho invertido c/ Halteres",
       "muscle": "antebraco",
       "infoLink": "https://www.strengthlog.com/dumbbell-wrist-extension/"
+    }, 
+    {
+      "name": " Rosca punho invertido c/ Anilha",
+      "muscle": "antebraco",
+      "infoLink": ""
     }
   ]
     }
