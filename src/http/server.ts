@@ -3,7 +3,9 @@ import mock from '../data/exercises.json';
 const app = fastify();
 
 app.get('/exercises', (request, response) => {
-    response.code(200).send(mock.exercises);
+    const { group } = request.query as { group: string };
+    const data = mock.exercises.find((value) => Object.keys(value).includes(group));    
+    response.code(200).send(data);
 })
 app.listen({
     port: 3333,
