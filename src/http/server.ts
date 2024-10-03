@@ -7,8 +7,12 @@ app.get('/exercises', (request, response) => {
     const data = mock.exercises.find((value) => Object.keys(value).includes(group));    
     response.code(200).send(data);
 })
-app.listen({
-    port: 3333,
-}).then(() => {
-    console.log("HTTP server running!");
-})
+const PORT =3000
+const ADDRESS = '0.0.0.0'
+app.listen({ port: PORT, host: ADDRESS }, (err, address) => {
+  if (err) {
+    app.log.error(err);
+    process.exit(1);
+  }
+  app.log.info(`Server listening at ${address}`);
+});
